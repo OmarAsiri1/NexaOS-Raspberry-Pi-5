@@ -1,5 +1,7 @@
 # Nexa OS 1.0
 
+![Nexa OS](images/NexaOS.png)
+
 System Features:
 - Designed and tested on Raspberry Pi 5
 - GNOME desktop environment for a sleek and modern experience
