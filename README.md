@@ -1,6 +1,6 @@
 # Nexa OS 1.0
 
-![Nexa OS](images/NexaOS.png)
+![Nexa OS](images/Desktop.png)
 
 System Features:
 - Designed and tested on Raspberry Pi 5
@@ -23,4 +23,4 @@ Notes:
 - Recommended SD Card: Class 10 or UHS-I
 - Backup your data before flashing
 - Enjoy a beautiful, unique, and fully functional Raspberry Pi experience!
-- The image will be available for download soon.
+- The image will be available for download soon on 25 Sep 2025.
