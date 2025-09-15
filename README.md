@@ -12,6 +12,10 @@ System Features:
 - Unique and elegant design that makes Nexa OS stand out
 - Version: 1.0
 
+  
+![Nexa OS](/Logo.png)
+
+
 Installation Instructions:
 1. Download the NexaOS_v1.0.img.xz from Releases
 2. Decompress the image using: xz -d NexaOS_v1.0.img.xz
