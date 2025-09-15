@@ -1,6 +1,6 @@
 # Nexa OS 1.0
 
-![Nexa OS](images/Desktop.png)
+![Nexa OS](/Desktop.png)
 
 System Features:
 - Designed and tested on Raspberry Pi 5
