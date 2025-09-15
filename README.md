@@ -23,4 +23,4 @@ Notes:
 - Recommended SD Card: Class 10 or UHS-I
 - Backup your data before flashing
 - Enjoy a beautiful, unique, and fully functional Raspberry Pi experience!
-- The image will be available for download soon on 25 Sep 2025.
+- The image will be available for download soon on.
