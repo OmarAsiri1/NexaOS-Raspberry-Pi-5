@@ -1,6 +1,8 @@
 # Nexa OS 1.0
-
+Hint From The OS
 ![Nexa OS](/Desktop.png)
+And
+![Nexa OS](/Settings.png)
 
 System Features:
 - Designed and tested on Raspberry Pi 5
@@ -28,3 +30,4 @@ Notes:
 - Backup your data before flashing
 - Enjoy a beautiful, unique, and fully functional Raspberry Pi experience!
 - The image will be available for download soon on.
+
